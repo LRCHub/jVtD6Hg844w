@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "わたしの一番かわいいところ",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-01-07T18:59:11.186789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わたしの一番かわいいところ",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/01_わたしの一番かわいいところ_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わたしの一番かわいいところ - Watashi no Ichiban Kawaiitokoro",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/02_わたしの一番かわいいところ_-_Watashi_no_Ichiban_Kawaiitokoro_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "わたしの一番かわいいところ",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/03_わたしの一番かわいいところ_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "わたしの一番かわいいところ - Watashino Ichiban Kawaiitokoro",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/04_わたしの一番かわいいところ_-_Watashino_Ichiban_Kawaiitokoro_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "わたしの一番かわいいところ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_わたしの一番かわいいところ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "わたしの一番かわいいところ",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/06_わたしの一番かわいいところ_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "わたしの一番かわいいところ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/07_わたしの一番かわいいところ_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしの一番かわいいところ",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_わたしの一番かわいいところ_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
